@@ -1,4 +1,4 @@
-# Research on Algorithmic determination of amino acid substitution
+# Research on Algorithmic determination of amino acid substitution group
 
 #ABSTRACT
 
