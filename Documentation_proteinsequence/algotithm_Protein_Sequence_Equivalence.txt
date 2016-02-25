@@ -1,0 +1,25 @@
+Algorithm : Equivalance_Protein_Sequences
+Input : 2 Protein Sequences
+Output : Equivalency Determination of input Sequences
+
+step 1: Enter Seq1
+step 2: Enter Seq2
+step 3: if Seq1 is null or Seq2 is null
+		then exit
+	end if
+step 4: if Seq1.lenght() equals Seq2.lenght()
+step 5:		for i = 0 to Seq1.lenght() do
+                	if Seq1[i] equals Seq2[i]
+				then flag ++;
+
+                    	else do
+				for j = 0 to 20 do
+					if Seq1[i] equals Normalized Matrix Seq2[j]
+						flag++
+			end if
+	end if
+step 6: if flag.length() equals seq1.length()
+		print Equivalent Sequence
+	else
+		print Not Equivalent
+	end if
