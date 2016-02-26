@@ -1,0 +1,18 @@
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe.config
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\bin\Debug\proteinSequence.pdb
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Form1.resources
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.exe
+c:\users\dev\documents\visual studio 2012\Projects\proteinSequence\proteinSequence\obj\Debug\proteinSequence.pdb
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe.config
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.exe
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.pdb
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\bin\Debug\proteinSequence.pdb
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.csprojResolveAssemblyReference.cache
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Form1.resources
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Properties.Resources.resources
+D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.csproj.GenerateResource.Cache
