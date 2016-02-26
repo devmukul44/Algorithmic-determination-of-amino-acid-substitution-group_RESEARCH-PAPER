@@ -16,3 +16,12 @@ D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj
 D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Form1.resources
 D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.Properties.Resources.resources
 D:\PROJECTS\research paper Prof. yamuna\main\proteinSequence\proteinSequence\obj\Debug\proteinSequence.csproj.GenerateResource.Cache
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe.config
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.exe
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.pdb
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\bin\Debug\proteinSequence.exe
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\bin\Debug\proteinSequence.pdb
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.csprojResolveAssemblyReference.cache
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.Form1.resources
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.Properties.Resources.resources
+D:\PROJECTS\research paper Prof. yamuna\Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER\App_C#-proteinSequence\proteinSequence\obj\Debug\proteinSequence.csproj.GenerateResource.Cache

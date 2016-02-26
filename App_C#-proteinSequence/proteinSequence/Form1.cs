@@ -51,8 +51,15 @@ namespace proteinSequence
             try
             {
                 int flag = 0;
-            char[] ch1 = (textBox1.Text).ToCharArray();
-            char[] ch2 = (textBox2.Text).ToCharArray();
+
+                String outputStr1 = System.Text.RegularExpressions.Regex.Replace(textBox1.Text, @"[^a-zA-Z//]", "").ToUpperInvariant();
+                String outputStr2 = System.Text.RegularExpressions.Regex.Replace(textBox2.Text, @"[^a-zA-Z//]", "").ToUpperInvariant();
+
+                char[] ch1 = (outputStr1).ToCharArray();
+                char[] ch2 = (outputStr2).ToCharArray();
+
+            //char[] ch1 = (textBox1.Text).ToCharArray();
+            //char[] ch2 = (textBox2.Text).ToCharArray();
 
             if (ch1.Length == ch2.Length)
             {
@@ -86,7 +93,7 @@ namespace proteinSequence
                 if (flag == ch1.Length)
                 {
                     MessageBox.Show("true");
-                    MessageBox.Show(Convert.ToString(a.Length));
+                    //MessageBox.Show(Convert.ToString(a.Length));
                 }
                 else
                 {
@@ -103,6 +110,11 @@ namespace proteinSequence
             {
                 MessageBox.Show(ex.Message.ToString(), "Error!");
             }
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
