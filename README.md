@@ -10,4 +10,4 @@ algorithmic approach for determination of amino acid substitution group.
 
 Download - http://scholarsresearchlibrary.com/dpl-vol7-iss11/DPL-2015-7-11-197-201.pdf
 
-Download c#.Net App - Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER/App_C#-proteinSequence/proteinSequence/publish/setup.exe
+Download c#.Net App - Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER/App_C#-proteinSequence/proteinSequence/publish/setup.exe (https://github.com/devmukul44/Algorithmic-determination-of-amino-acid-substitution-group_RESEARCH-PAPER/tree/master/App_C%23-proteinSequence/proteinSequence/publish)
